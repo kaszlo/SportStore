@@ -13728,7 +13728,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sebastian\\.nuget\\packages\\": {},
+    "C:\\Users\\olszak\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -13738,18 +13738,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sebastian\\source\\repos\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
+      "projectUniqueName": "C:\\Temp\\prj\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
       "projectName": "SportStore.Tests",
-      "projectPath": "C:\\Users\\Sebastian\\source\\repos\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
-      "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sebastian\\source\\repos\\SportStore\\SportStore.Tests\\obj\\",
+      "projectPath": "C:\\Temp\\prj\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
+      "packagesPath": "C:\\Users\\olszak\\.nuget\\packages\\",
+      "outputPath": "C:\\Temp\\prj\\SportStore\\SportStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\olszak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -13763,8 +13763,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Sebastian\\source\\repos\\SportStore\\SportStore\\SportStore.csproj": {
-              "projectPath": "C:\\Users\\Sebastian\\source\\repos\\SportStore\\SportStore\\SportStore.csproj"
+            "C:\\Temp\\prj\\SportStore\\SportStore\\SportStore.csproj": {
+              "projectPath": "C:\\Temp\\prj\\SportStore\\SportStore\\SportStore.csproj"
             }
           }
         }
