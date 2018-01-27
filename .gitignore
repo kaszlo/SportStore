@@ -4,3 +4,6 @@
 
 /.vs/SportStore/v15
 /SportStore/obj
+/bin
+/wwwroot/lib
+/SportStore.Test/obj
